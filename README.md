@@ -24,6 +24,10 @@ se realizo el mismo procedimiento que en el script anterior solo que en este cas
 de igual manera se creo una base para estos datos
 ![image](https://user-images.githubusercontent.com/58050574/127720859-63e1176c-e5d4-4842-be09-0c130cfbdf33.png)
 
+#4
+se intento realizar la recopilacion de facebook y conectarlo con mongodb
+creando una base de datos nuevo e insertarlos en mongodv con insert_one pero hubo errores
+![image](https://user-images.githubusercontent.com/58050574/127724372-de5dff0e-dea6-489c-b984-b818dc84b0b0.png)
 
 
 
