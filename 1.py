@@ -14,10 +14,10 @@ import json
 # In[4]:
 
 
-ckey = "XpWZj1B7FfuWKUEFlZsejTqaS"
-csecret = "ostfedeyrmkRtlTIa8yXM9XfbLoQ8HhLOyqLjlQVbGOT6vPnvU"
-atoken = "1072159494971539456-v1dpnbcfgjEkQxcqGDOoUJdD8FW3nT"
-asecret = "1gbUNF9fZse5cxoBPCJopPB0RHVWFXwl13bpWNgor8zBa"
+ckey = "caducado"
+csecret = "caducado"
+atoken = "caducado"
+asecret = "caducado"
 
 
 # In[5]:
